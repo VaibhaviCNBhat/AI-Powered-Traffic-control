@@ -1,4 +1,4 @@
-# AI-Based-Traffic-Management-SIH
+# AI-Powered-Traffic-Management
 An AI based traffic management system with real-time monitoring
 
 ## 🗒️ Overview
@@ -21,7 +21,7 @@ The Smart Adaptive Traffic Management System leverages AI and computer vision to
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3
 - Nodejs
 - OpenCV
 - YOLOv4 weights and configuration files
